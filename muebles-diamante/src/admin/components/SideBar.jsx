@@ -4,7 +4,11 @@ import styled from "styled-components";
 
 const Aside = styled.aside`
   background-color: #202123;
-  height: 120rem;
+  
+  height: 100vh;
+  width: 250px;
+  
+  
 `;
 
 const StyledLinkLogo = styled(Link)`
